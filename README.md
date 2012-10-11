@@ -1,4 +1,4 @@
 Promo
 =====
 
-Promotion Material and its supporting content
+This is a repository for Toyhouse's promotion material and its supporting content.
